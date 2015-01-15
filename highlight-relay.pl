@@ -10,6 +10,7 @@ use Irssi qw(
   settings_add_bool
   settings_add_int
   settings_get_str
+  settings_get_bool
   settings_get_int
   command
 );
